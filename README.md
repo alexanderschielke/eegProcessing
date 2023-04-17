@@ -5,4 +5,4 @@ egiPReprocess: Read and preprocess neurostim files and mff files for experiment 
 
 prepareSourceModel: create a source model based on "The FieldTrip-SimBio pipeline for EEG forward solutions. (Vorwerk et al., 2018) and the fieldtrip toolbox
 
-doSOurceAnalysis: combine source model and data from SSVEP experiment for further analyses based on source space
+doSourceAnalysis: combine source model and data from SSVEP experiment for further analyses based on source space
